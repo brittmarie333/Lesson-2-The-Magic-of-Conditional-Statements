@@ -1,0 +1,1 @@
+#If we provide the numbers 3, 3, and 4, it should print out that "The smallest number is 3. The largest number is 4. "

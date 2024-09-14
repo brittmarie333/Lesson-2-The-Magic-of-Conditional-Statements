@@ -1,0 +1,1 @@
+#Task 2: Identify the Smallest Improve upon your code from Task 1 to also determine the smallest number among the three and print it out.
